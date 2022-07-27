@@ -30,7 +30,7 @@ jobs:
 
       #Change the app-name to match what was provided to you in the publish settings file, this is in a naming convention of 'COURSENAME-STUDENTUID'
 
-        app-name: 'CMST385-kohaka.xml'
+        app-name: 'CMST385-kohaka'
 
         slot-name: 'production'
 
